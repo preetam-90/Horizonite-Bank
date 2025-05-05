@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="200" height="200" viewBox="0 0 200 200">
+  <defs>
+    <linearGradient id="logoGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1E3A8A" />
+      <stop offset="100%" stop-color="#3949AB" />
+    </linearGradient>
+  </defs>
+  <rect x="40" y="80" width="120" height="70" rx="5" fill="url(#logoGradient)" />
+  <rect x="60" y="50" width="80" height="30" rx="5" fill="url(#logoGradient)" />
+  <circle cx="100" cy="100" r="25" fill="#ffffff" />
+  <path d="M100 85 L110 105 L90 105 Z" fill="url(#logoGradient)" />
+  <rect x="70" y="130" width="60" height="10" rx="3" fill="#ffffff" />
+  <text x="100" y="160" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle" fill="#1E3A8A">NUVANA BANK</text>
+</svg> 

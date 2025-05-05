@@ -1,0 +1,7 @@
+# Ignore data files (user data shouldn't be in version control)
+data/*.json
+# Python cache files
+__pycache__/
+*.py[cod]
+# Virtual environment
+venv/

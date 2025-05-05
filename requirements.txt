@@ -1,0 +1,8 @@
+streamlit==1.30.0
+pandas==2.1.4
+matplotlib==3.8.2
+plotly==5.18.0
+pyotp==2.9.0
+streamlit-option-menu==0.3.6
+pillow==10.2.0
+uuid==1.30
