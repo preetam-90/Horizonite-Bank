@@ -62,7 +62,7 @@ Get Horizonite Banking Portal up and running in just a few steps! Follow this gu
 Clone the Horizonite repository and navigate to the project directory:
 
 ```bash
-git clone https://github.com/Arya-rani/Horizonite.git
+git clone https://github.com/Arya-rani/Horizonite-Bank.git
 cd Horizonite
 ```
 
