@@ -3,7 +3,7 @@
 [![MIT License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![Python 3.11+](https://img.shields.io/badge/Python-3.11+-green.svg)](https://www.python.org/downloads/)
 [![Streamlit](https://img.shields.io/badge/Streamlit-1.30.0-orange.svg)](https://streamlit.io/)
-[![Live Demo](https://img.shields.io/badge/Live_Demo-Visit-92c952)](https://horizonite.bank.streamlit.app/)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-Visit-92c952)](https://horizonite-bank.streamlit.app/)
 
 A **modern, secure**, and feature-rich banking portal built with Python and Streamlit, designed to empower users with comprehensive financial management capabilities.
 
