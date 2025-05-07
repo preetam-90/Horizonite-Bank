@@ -1,3 +1,14 @@
+'''
+Horizonite Bank - A Modern Banking Web Application
+This is the main application file that implements a full-featured banking system using Streamlit.
+Features include:
+- User authentication (login/register)
+- Account management and balance tracking
+- Money transfers and transaction history
+- EMI calculator with visualization
+- Responsive dark-themed UI with modern design
+'''
+
 import streamlit as st
 import json
 import os
