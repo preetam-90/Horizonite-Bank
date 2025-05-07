@@ -1,6 +1,8 @@
 '''
 Horizonite Bank - A Modern Banking Web Application
 This is the main application file that implements a full-featured banking system using Streamlit.
+Last updated: May 7, 2025
+
 Features include:
 - User authentication (login/register)
 - Account management and balance tracking
@@ -892,8 +894,6 @@ def account_details_page():
             background-color: #2d303e;
             border-radius: 12px;
             padding: 1.5rem;
-            box-shadow: 0 4px 15px rgba(0, 0, 0, 0.15);
-            margin-bottom: 2rem;
             transition: transform 0.2s;
             position: relative;
             overflow: hidden;
