@@ -9,11 +9,10 @@ import numpy as np
 from PIL import Image
 import random
 import time
-
 # Set page configuration
 st.set_page_config(
     page_title="Horizonite Bank",
-    page_icon="🏦",
+    page_icon="https://i.postimg.cc/ZKsR5DFW/hrgd.jpg",  # Use the provided image URL as the favicon
     layout="centered",  # Change from "wide" to "centered"
     initial_sidebar_state="expanded"
 )
