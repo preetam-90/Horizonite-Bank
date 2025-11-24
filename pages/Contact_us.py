@@ -393,8 +393,8 @@ st.markdown("""
             <i class="fas fa-code" style="font-size: 30px; color: #FFFFFF;"></i>
         </div>
     </div>
-    <p style="color: #FFFFFF; font-size: 18px; margin-bottom: 8px; font-weight: 600;">Developed by: Arya Rani</p>
-    <p style="color: #FFFFFF; font-size: 16px; margin-bottom: 8px;"><strong>College:</strong> New Horizone College of Engineering</p>
+    <p style="color: #FFFFFF; font-size: 18px; margin-bottom: 8px; font-weight: 600;">Developed by: Preetam Kumar</p>
+    <p style="color: #FFFFFF; font-size: 16px; margin-bottom: 8px;"><strong>College:</strong> Meerut Institute of Technology</p>
     <p style="color: #FFFFFF; font-size: 16px; margin-bottom: 8px;"><strong>Program:</strong> BCA 6th Semester</p>
     <p style="color: #FFFFFF; font-size: 16px; margin-bottom: 8px;"><strong>Registration Number:</strong> U19KU22S0084</p>
     <p style="color: #FFFFFF; font-size: 16px; margin-bottom: 15px;"><strong>Project:</strong> Horizonite Bank Portal</p>
@@ -406,17 +406,17 @@ st.markdown('</div>', unsafe_allow_html=True)
 
 # Function to handle redirects
 def open_email():
-    webbrowser.open('mailto:arya922004@gmail.com')
+    webbrowser.open('mailto:preetamkumar8873@gmail.com')
 
 def open_phone():
     webbrowser.open('tel:+918539038946')
 
 def open_whatsapp():
     # Using the WhatsApp API to open chat with the bank's number
-    webbrowser.open('https://wa.me/918539038946')
+    webbrowser.open('https://wa.me/9798292134')
 
 def open_linkedin():
-    webbrowser.open('https://www.linkedin.com/in/arya-rani-938017236')
+    webbrowser.open('https://www.linkedin.com/in/preetam-90')
 
 # Header section
 st.markdown("""
@@ -445,9 +445,9 @@ with left_col:
             <div class="contact-content">
                 <h4>Email Us</h4>
                 <p>For general inquiries and support requests</p>
-                <p>arya922004@gmail.com</p>
+                <p>preetamkumar8873@gmail.com</p>
             </div>
-            <a href="mailto:arya922004@gmail.com" class="contact-action email">
+            <a href="mailto:preetamkumar8873@gmail.com" class="contact-action email">
                 Send Email
             </a>
         </div>
@@ -496,9 +496,9 @@ with left_col:
             <div class="contact-content">
                 <h4>Connect on LinkedIn</h4>
                 <p>Follow us for updates and career opportunities</p>
-                <p>Arya Rani</p>
+                <p>Preetam kumar</p>
             </div>
-            <a href="https://www.linkedin.com/in/arya-rani-938017236" target="_blank" class="contact-action linkedin">
+            <a href="https://www.linkedin.com/in/preetam-90" target="_blank" class="contact-action linkedin">
                 Connect
             </a>
         </div>
@@ -638,10 +638,10 @@ st.markdown("""
 # Buttons for direct contact actions - only visible on mobile
 st.markdown("""
 <div style="display: none; position: fixed; bottom: 20px; right: 20px; z-index: 1000;" class="mobile-contact-buttons">
-    <a href="mailto:arya922004@gmail.com" style="background-color: #DB2777; color: white; padding: 12px; border-radius: 50%; display: inline-block; margin-right: 10px; box-shadow: 0 4px 10px rgba(0,0,0,0.1);">
+    <a href="mailto:preetamkumar8873@gmail.com" style="background-color: #DB2777; color: white; padding: 12px; border-radius: 50%; display: inline-block; margin-right: 10px; box-shadow: 0 4px 10px rgba(0,0,0,0.1);">
         <i class="fas fa-envelope"></i>
     </a>
-    <a href="tel:+918539038946" style="background-color: #10B981; color: white; padding: 12px; border-radius: 50%; display: inline-block; margin-right: 10px; box-shadow: 0 4px 10px rgba(0,0,0,0.1);">
+    <a href="tel:+919798292134" style="background-color: #10B981; color: white; padding: 12px; border-radius: 50%; display: inline-block; margin-right: 10px; box-shadow: 0 4px 10px rgba(0,0,0,0.1);">
         <i class="fas fa-phone-alt"></i>
     </a>
     <a href="https://wa.me/918539038946" style="background-color: #25D366; color: white; padding: 12px; border-radius: 50%; display: inline-block; box-shadow: 0 4px 10px rgba(0,0,0,0.1);">
