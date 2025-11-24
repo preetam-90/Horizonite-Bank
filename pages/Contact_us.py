@@ -1,4 +1,4 @@
-import streamlit as st
+Rimport streamlit as st
 import webbrowser
 import json
 import os
@@ -396,7 +396,7 @@ st.markdown("""
     <p style="color: #FFFFFF; font-size: 18px; margin-bottom: 8px; font-weight: 600;">Developed by: Preetam Kumar</p>
     <p style="color: #FFFFFF; font-size: 16px; margin-bottom: 8px;"><strong>College:</strong> Meerut Institute of Technology</p>
     <p style="color: #FFFFFF; font-size: 16px; margin-bottom: 8px;"><strong>Program:</strong> B.Tech 7th Semester</p>
-    <p style="color: #FFFFFF; font-size: 16px; margin-bottom: 8px;"><strong>Registration Number:</strong> U19KU22S0084</p>
+  
     <p style="color: #FFFFFF; font-size: 16px; margin-bottom: 15px;"><strong>Project:</strong> Horizonite Bank Portal</p>
     <div style="height: 1px; background: linear-gradient(to right, transparent, rgba(255, 255, 255, 0.3), transparent); margin: 15px 0;"></div>
   
@@ -479,7 +479,7 @@ with left_col:
             <div class="contact-content">
                 <h4>WhatsApp</h4>
                 <p>Chat with our customer support team</p>
-                <p>+91 8539038946</p>
+                <p>+91 9798292134</p>
             </div>
             <a href="https://wa.me/918539038946" class="contact-action whatsapp">
                 Chat Now
@@ -624,7 +624,7 @@ with right_col:
     
     <div style="margin-top: 1rem;">
         <h4 style="color: #FFFFFF; font-size: 1.1rem;">Customer Service Availability</h4>
-        <p style="color: #FFFFFF;">Our 24/7 phone support is available at +91 8539038946 for emergencies such as lost cards or suspicious transactions.</p>
+        <p style="color: #FFFFFF;">Our 24/7 phone support is available at +91 9798292134 for emergencies such as lost cards or suspicious transactions.</p>
     </div>
     """, unsafe_allow_html=True)
     
