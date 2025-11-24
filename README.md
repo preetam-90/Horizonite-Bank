@@ -62,7 +62,7 @@ Get Horizonite Banking Portal up and running in just a few steps! Follow this gu
 Clone the Horizonite repository and navigate to the project directory:
 
 ```bash
-git clone https://github.com/Arya-rani/Horizonite-Bank.git
+git clone https://github.com/preetam-90/Horizonite-Bank.git
 cd Horizonite
 ```
 
@@ -180,7 +180,7 @@ We welcome contributions to make Horizonite even better! Follow these steps to g
 
 Have questions or need support? Reach out to us! 💬
 
-- 📧 **Email**: [arya.rani@example.com](mailto:arya922004@gmail.com)
+- 📧 **Email**: [preetamkumar8873@example.com](mailto:preetamkumar8873@gmail.com)
 - 💬 **Live Chat**: Available directly on the Horizonite App
 
 ---
@@ -201,3 +201,4 @@ We’re committed to making Horizonite the best it can be! Here are some planned
 > **Want to help?** Let us know if you’d like to contribute to any of these improvements! Open an issue or reach out directly. 🙌
 
 ---
+
