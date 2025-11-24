@@ -1,4 +1,4 @@
-Rimport streamlit as st
+import streamlit as st
 import webbrowser
 import json
 import os
