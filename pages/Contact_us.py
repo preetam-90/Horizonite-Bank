@@ -395,11 +395,11 @@ st.markdown("""
     </div>
     <p style="color: #FFFFFF; font-size: 18px; margin-bottom: 8px; font-weight: 600;">Developed by: Preetam Kumar</p>
     <p style="color: #FFFFFF; font-size: 16px; margin-bottom: 8px;"><strong>College:</strong> Meerut Institute of Technology</p>
-    <p style="color: #FFFFFF; font-size: 16px; margin-bottom: 8px;"><strong>Program:</strong> BCA 6th Semester</p>
+    <p style="color: #FFFFFF; font-size: 16px; margin-bottom: 8px;"><strong>Program:</strong> B.Tech 7th Semester</p>
     <p style="color: #FFFFFF; font-size: 16px; margin-bottom: 8px;"><strong>Registration Number:</strong> U19KU22S0084</p>
     <p style="color: #FFFFFF; font-size: 16px; margin-bottom: 15px;"><strong>Project:</strong> Horizonite Bank Portal</p>
     <div style="height: 1px; background: linear-gradient(to right, transparent, rgba(255, 255, 255, 0.3), transparent); margin: 15px 0;"></div>
-    <p style="color: #FFFFFF; font-size: 14px; font-style: italic;">This application was developed as part of the BCA program requirements.</p>
+  
 </div>
 """, unsafe_allow_html=True)
 st.markdown('</div>', unsafe_allow_html=True)
@@ -409,7 +409,7 @@ def open_email():
     webbrowser.open('mailto:preetamkumar8873@gmail.com')
 
 def open_phone():
-    webbrowser.open('tel:+918539038946')
+    webbrowser.open('tel:+919798292134')
 
 def open_whatsapp():
     # Using the WhatsApp API to open chat with the bank's number
@@ -462,9 +462,9 @@ with left_col:
             <div class="contact-content">
                 <h4>Call Us</h4>
                 <p>Customer Service Hotline</p>
-                <p>+91 8539038946</p>
+                <p>+91 9798292134</p>
             </div>
-            <a href="tel:+918539038946" class="contact-action phone">
+            <a href="tel:+919798292134" class="contact-action phone">
                 Call Now
             </a>
         </div>
