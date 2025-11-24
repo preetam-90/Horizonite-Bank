@@ -396,7 +396,6 @@ st.markdown("""
     <p style="color: #FFFFFF; font-size: 18px; margin-bottom: 8px; font-weight: 600;">Developed by: Preetam Kumar</p>
     <p style="color: #FFFFFF; font-size: 16px; margin-bottom: 8px;"><strong>College:</strong> Meerut Institute of Technology</p>
     <p style="color: #FFFFFF; font-size: 16px; margin-bottom: 8px;"><strong>Program:</strong> B.Tech 7th Semester</p>
-  
     <p style="color: #FFFFFF; font-size: 16px; margin-bottom: 15px;"><strong>Project:</strong> Horizonite Bank Portal</p>
     <div style="height: 1px; background: linear-gradient(to right, transparent, rgba(255, 255, 255, 0.3), transparent); margin: 15px 0;"></div>
   
